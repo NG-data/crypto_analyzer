@@ -1,8 +1,8 @@
 airflow-providers-clickhouse==0.0.1
-apache-airflow-providers-apache-spark==4.11.1
+apache-airflow-providers-apache-spark==4.11.3
 pandas
 requests==2.31.0
-pyspark==3.4.2
+pyspark
 psycopg2-binary
 clickhouse-connect==0.8.0
 clickhouse-driver==0.2.9
